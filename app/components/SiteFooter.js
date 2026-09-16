@@ -6,7 +6,7 @@ export default function SiteFooter({ locale = "nl", shareUrl = "https://eremarke
   const prefix = en ? "/en" : "";
   return <footer className="footer">
     <div className="brand"><span className="brandMark">ERE</span><span>MARKET</span></div>
-    <span>{en ? "Chain control for the new energy market." : "Ketenregie voor de nieuwe energiemarkt."}</span>
+    <span>{en ? "Chain control, all is set by ERE market." : "Ketenregie, alles geregeld door ERE market."}</span>
     <ShareKit locale={locale} url={shareUrl} title={shareTitle} compact />
     <div className="footerLinks">
       <Link href={`${prefix}/ere`}>{en ? "ERE knowledge →" : "ERE kennis →"}</Link>
