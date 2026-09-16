@@ -28,8 +28,8 @@ export default function Home() {
         <div className="heroGrid" />
         <div className="heroContent">
           <div className="eyebrow"><span /> FOCUS OP INTERN ELEKTRISCH TRANSPORT · LOGISTIEK · DC · WAREHOUSING</div>
-          <h1>Maak van uw elektrische energie <em>marktwaarde.</em></h1>
-          <p className="heroLead">Uw elektrische heftrucks, reachtrucks en andere interne transportmiddelen verbruiken al veel elektriciteit. Onder voorwaarden kan die elektriciteit ERE’s opleveren. Wij regelen de keten van beoordeling, registratie en verkoop. Onze focus ligt op intern elektrisch transport; staat er daarnaast één elektrische vrachtwagen, een ander elektrisch wegvoertuig of één of meer laadpunten op dezelfde locatie, dan beoordelen we die in dezelfde keten wanneer ze aan de ERE-voorwaarden voldoen.</p>
+          <h1>Haal waarde uit uw elektrisch verbruik <em> door middel van ERE's.</em></h1>
+          <p className="heroLead">Uw elektrische heftrucks, reachtrucks en andere interne transportmiddelen verbruiken veel elektriciteit. Onder voorwaarden kan die elektriciteit ERE’s opleveren. Wij regelen de keten van beoordeling, registratie en verkoop. Onze focus ligt op intern elektrisch transport; staat er daarnaast één elektrische vrachtwagen, een ander elektrisch wegvoertuig of één of meer laadpunten op dezelfde locatie, dan beoordelen we die in dezelfde keten wanneer ze aan de ERE-voorwaarden voldoen.</p>
           <div className="heroActions">
             <Link href="/ere-check" className="button buttonPrimary">Bereken uw ERE-potentieel <span>→</span></Link>
             <Link href="/hoe-het-werkt" className="textLink">Bekijk hoe het werkt</Link><Link href="/ere-aanvraag" className="textLink">Heeft u de eerste scan al gedaan? Start stap 2 →</Link>
